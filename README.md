@@ -1,8 +1,9 @@
 <!-- Cyberpunk GitHub Profile README for reylob -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00FFFF&center=true&vCenter=true&lines=Welcome+to+Reylob's+Grid;Access+Granted...;Cyberpunk+Mode+ON" />
-</p>
+<h1 align="center">Reylob</h1>
+<h3 align="center" style="color:#8a2be2;">
+  Developer • Builder • Lifelong Learner
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00FFFF&center=true&vCenter=true&lines=Developer+%7C+Builder;Python+%7C+Java+%7C+Web;Always+Learning+%E2%9C%94;Future+Fullstack+Engineer+%F0%9F%9A%80" alt="Typing SVG">

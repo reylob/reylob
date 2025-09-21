@@ -1,7 +1,5 @@
-<!-- Neon cyberpunk header -->
+<!-- Cyberpunk Header -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=220&section=header&text=Reylob%20👾&fontSize=50&fontColor=0d0d0d&animation=twinkling&fontAlignY=35)
-
----
 
 <div align="center">
 
@@ -41,6 +39,8 @@
 - 🕹 **[Gamepad Mapper](#)** → Android app: keyboard + mouse → controller.  
 - 📈 **[Solo Leveling Training Tracker](#)** → Fitness quests & leveling system.  
 
+*(👉 Tip: link each project to a **live demo** or repo with screenshots so employers can click.)*  
+
 ---
 
 ## 📊 GitHub Activity
@@ -62,10 +62,15 @@
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: **your-email@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](#)  
-- 🌐 Portfolio: [reylob.github.io](#) *(coming soon)*  
+## 💼 Hire Me
+<p align="center">
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email%20Me-ff00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+<a href="https://yourlink.com/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-ff00ff?style=for-the-badge&logo=adobeacrobatreader"/></a>
+</p>
+
+> 🚀 Open to **Junior Developer** or **Freelance Opportunities**  
+> 📌 *Let’s build something amazing together.*  
 
 ---
 

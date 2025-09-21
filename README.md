@@ -16,4 +16,4 @@
 
 ### 🔗 Connect
 - 🌐 [Portfolio Website](#) *(coming soon)*  
-- 📧 Email: *(your email here)*
+- 📧 Email: reylob59@gmail.com
